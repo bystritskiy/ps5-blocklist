@@ -24,6 +24,7 @@ auth.api.np.ac.playstation.net
 auth.api.sonyentertainmentnetwork.com
 auth.np.ac.playstation.net
 b0.ww.np.dl.playstation.net
+bclog.np.rds.s0.playstation.net
 bgft.rnps.dl.playstation.net
 broadcast.rnps.dl.playstation.net
 ca.account.sony.com
@@ -260,6 +261,7 @@ ps4updptl.us.np.community.playstation.net
 ps5-app-cloud-config.rnps.dl.playstation.net
 ps5-multi-bundle-ota.rnps.dl.playstation.net
 ps5.np.playstation.net
+ps5cel.np.dl.playstation.net
 psn-rsc.prod.dl.playstation.net
 psnow-player.rnps.dl.playstation.net
 psw-firmware.rnps.dl.playstation.net
@@ -297,6 +299,7 @@ themis.dl.playstation.net
 titlestore-preview.rnps.dl.playstation.net
 tmdb.np.dl.playstation.net
 trophy.rnps.dl.playstation.net
+trophy01.np.community.playstation.net
 tts-dictionary.rnps.dl.playstation.net
 uam-fs.rnps.dl.playstation.net
 uam-lambda.rnps.dl.playstation.net

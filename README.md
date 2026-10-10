@@ -1,6 +1,6 @@
 # PlayStation blocklist
 
-320 доменов PlayStation для блокировки через Pi-hole или AdGuard Home.
+323 домена PlayStation для блокировки через Pi-hole или AdGuard Home.
 
 Добавьте [Raw-ссылку на список](https://raw.githubusercontent.com/bystritskiy/ps5-blocklist/main/playstation-domains.txt) в списки блокировки и обновите Gravity. Применяйте список только к консоли.
 
